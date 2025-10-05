@@ -104,7 +104,7 @@ function App() {
                 <Sprout className="w-6 h-6 text-green-600" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white">Agrroalert</h1>
+                <h1 className="text-xl font-bold text-white">Agroalert</h1>
                 <p className="text-xs text-green-100">Smart Farming System</p>
               </div>
             </div>
